@@ -12,7 +12,7 @@ GokonMaster（以下「本アプリ」）のご使用によって、本規約に
 本アプリでは、広告配信のためにGoogle AdMob、利用状況解析のためにGoogle FierBase Analyticsを使用する場合がございます。  
 広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。  
 取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。  
-[AdMob(Google Inc.)](https://policies.google.com/technologies/ads?hl=ja)
+[AdMob(Google Inc.)](https://policies.google.com/technologies/ads?hl=ja)  
 [FireBase Analytics(Google Inc.)](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 
 ### 2.2 お問い合わせやご意見を頂く際の個人情報の収集
